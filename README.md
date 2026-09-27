@@ -1,4 +1,7 @@
+<div align="center">
 # ⚡ Developer Command Center — Real-Time Engineering Productivity & Telemetry SaaS
+</div>
+  
 <div align="center">
 
 ![Developer Command Center Banner](https://img.shields.io/badge/DEVELOPER%20COMMAND%20CENTER-ENTERPRISE%20EDITION-6366F1?style=for-the-badge&labelColor=090D16)
